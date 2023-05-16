@@ -1,0 +1,15 @@
+D:\dev\graphql_demo\src\GraphQLResolvers\bin\Debug\net7.0\GraphQLResolvers.deps.json
+D:\dev\graphql_demo\src\GraphQLResolvers\bin\Debug\net7.0\GraphQLResolvers.dll
+D:\dev\graphql_demo\src\GraphQLResolvers\bin\Debug\net7.0\GraphQLResolvers.pdb
+D:\dev\graphql_demo\src\GraphQLResolvers\bin\Debug\net7.0\Data.Repository.dll
+D:\dev\graphql_demo\src\GraphQLResolvers\bin\Debug\net7.0\Data.Repository.pdb
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.csproj.AssemblyReference.cache
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.AssemblyInfoInputs.cache
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.AssemblyInfo.cs
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.csproj.CoreCompileInputs.cache
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.csproj.CopyComplete
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.dll
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\refint\GraphQLResolvers.dll
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\GraphQLResolvers.pdb
+D:\dev\graphql_demo\src\GraphQLResolvers\obj\Debug\net7.0\ref\GraphQLResolvers.dll

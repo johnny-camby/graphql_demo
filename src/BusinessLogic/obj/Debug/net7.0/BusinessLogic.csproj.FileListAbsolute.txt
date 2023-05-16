@@ -1,0 +1,17 @@
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\BusinessLogic.deps.json
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\BusinessLogic.dll
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\BusinessLogic.pdb
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\Data.Repository.dll
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\XmlDataExtractManager.dll
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\Data.Repository.pdb
+D:\dev\graphql_demo\src\BusinessLogic\bin\Debug\net7.0\XmlDataExtractManager.pdb
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfo.cs
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CopyComplete
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.dll
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\refint\BusinessLogic.dll
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\BusinessLogic.pdb
+D:\dev\graphql_demo\src\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
